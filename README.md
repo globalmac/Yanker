@@ -1,3 +1,4 @@
 # Yanker
-PHP micro-framework for blogging with Yandex.Disk Synch
+PHP микро-фреймворк для блогинга с синхронизацией на Яндекс.Диск
+
 
