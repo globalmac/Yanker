@@ -7,7 +7,6 @@ spl_autoload_register(function ($class) {
     require_once(ROOT_PATH . '/app/' . str_replace('\\', '/', $class) . '.php');
 });
 
-
 ob_start();
 
 // Routes
